@@ -5,46 +5,57 @@ I bridge the gap between **business strategy** and **technical execution**. I su
 
 ---
 
-### 🚀 Interactive Demos & Tools
-I build interactive tools to demonstrate security concepts. Check out my live portfolio:
+### 🚀 Interactive Security Tools
+I build interactive web tools to demonstrate complex security concepts.
 
-| Tool | Description | Tech Stack |
+#### 🛡️ Risk & Threat Modeling
+| Tool | Description | Stack |
 | :--- | :--- | :--- |
-| **[Threat Model Simulator](#)** | Interactive STRIDE/PASTA threat modeling tool. | `JS` `SVG` |
-| **[CISA KEV Explorer](#)** | Search & visualize active exploits from CISA. | `API` `Chart.js` |
-| **[FAIR Risk Calculator](#)** | Quantify risk in financial terms ($) vs qualitative (High/Med). | `JS` `Math` |
-| **[JWT Decoder](#)** | Client-side only JWT debugging and verification. | `CryptoJS` |
-| **[Cloud Misconfig Explorer](#)** | Visual guide to common AWS/Cloud pitfalls. | `Interactive` |
+| **[Threat Model Simulator](https://chandlerprince.com/threatmodel.html)** | Interactive STRIDE/PASTA threat modeling tool. | `JS` `SVG` |
+| **[FAIR Risk Calculator](https://chandlerprince.com/fair.html)** | Quantify risk in financial terms ($) vs qualitative. | `JS` `Math` |
+| **[Cloud Misconfig Explorer](https://chandlerprince.com/cloud.html)** | Visual guide to common AWS/Cloud pitfalls. | `Interactive` |
+| **[Risk Scoring Demo](https://chandlerprince.com/risk_scoring.html)** | Compare Manual Questionnaires vs. Automated Scanning. | `JS` |
+| **[Threat Intel Dashboard](https://chandlerprince.com/dashboard.html)** | Live vulnerability data from NVD/NIST. | `API` `Chart.js` |
+| **[CISA KEV Explorer](https://chandlerprince.com/kev.html)** | Search & visualize active exploits from CISA. | `API` |
+
+#### 🔐 Cryptography & Identity
+| Tool | Description | Stack |
+| :--- | :--- | :--- |
+| **[JWT Decoder & Verifier](https://chandlerprince.com/jwt.html)** | Client-side only JWT debugging and signature verification. | `CryptoJS` |
+| **[Shamir's Secret Sharing](https://chandlerprince.com/shamir.html)** | Visualize how secrets are split using polynomials. | `Canvas` |
+| **[Encryption Playground](https://chandlerprince.com/encryption.html)** | Interactive AES, RSA, and Hashing demos. | `CryptoJS` |
+| **[Password Entropy](https://chandlerprince.com/password_cracker.html)** | Visualize entropy and crack-time for passwords. | `JS` |
+| **[Browser Fingerprinting](https://chandlerprince.com/fingerprint.html)** | See how you are tracked without cookies. | `FingerprintJS` |
+
+#### 🛠️ AppSec & Utilities
+| Tool | Description | Stack |
+| :--- | :--- | :--- |
+| **[CVSS vs. EPSS](https://chandlerprince.com/epssdemo.html)** | Compare severity vs. probability of exploitation. | `API` |
+| **[Security Checklist](https://chandlerprince.com/checklist.html)** | Generate tailored checklists for your stack. | `JS` |
+| **[Cloud Armor WAF](https://chandlerprince.com/waf.html)** | Explorer for Google Cloud Armor & OWASP rules. | `Regex` |
+| **[PRS MODCAT Decoder](https://chandlerprince.com/modcat.html)** | Decoder for Paul Reed Smith guitar model codes. | `JS` |
+| **[String Art Generator](https://chandlerprince.com/string.html)** | Generative art using geometric algorithms. | `Canvas` |
 
 ---
 
-### 🛠️ Core Competencies & Stack
+### 📚 Guides & Case Studies
+Deep dives into regulations, processes, and security culture.
 
-**Governance & Strategy**
+* **[Secure SDLC Infographic](https://chandlerprince.com/sdlc.html)** - An interactive guide to DevSecOps stages.
+* **[Guide to SAST False Positives](https://chandlerprince.com/sast.html)** - How to triage and reduce noise.
+* **[Phishing Awareness](https://chandlerprince.com/phishing.html)** - Interactive email analysis training.
+* **[Cyber Certification Roadmap](https://chandlerprince.com/cyber_roadmap.html)** - Guide to DoD 8140 and industry certs.
+* **[Global Regulations](https://chandlerprince.com/regulation.html)** - Comparison of US vs. EU privacy frameworks.
+* **[US Privacy Timeline](https://chandlerprince.com/usprivacytimeline.html)** - Evolution of surveillance law in the US.
+* **[EU Privacy Timeline](https://chandlerprince.com/euprivacytimeline.html)** - History of GDPR and EU data protection.
+
+---
+
+### 🛠️ Core Competencies
 ![ISO 27001](https://img.shields.io/badge/ISO-27001-blue?style=flat-square)
 ![HIPAA](https://img.shields.io/badge/HIPAA-Compliance-blue?style=flat-square)
-![GDPR](https://img.shields.io/badge/GDPR-Privacy-blue?style=flat-square)
-![OWASP SAMM](https://img.shields.io/badge/OWASP-SAMM-blue?style=flat-square)
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=flat-square&logo=python)
-![Go](https://img.shields.io/badge/Go-Backend-00ADD8?style=flat-square&logo=go)
-![Rust](https://img.shields.io/badge/Rust-Systems-000000?style=flat-square&logo=rust)
+![Python](https://img.shields.io/badge/Python-Data-3776AB?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react)
-
----
-
-### 🏆 Certifications
-I maintain a deep commitment to continuous learning in the security space.
-
-* **ISC²:** CISSP, CCSP
-* **CompTIA:** Security+, CySA+, PenTest+, CASP+, Linux+, SecurityX
-* **ITIL:** Foundation v4
-
----
-
-### 📊 GitHub Stats
-![Chandler's GitHub stats](https://github-readme-stats.vercel.app/api?username=DChandlerP&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
